@@ -1285,7 +1285,7 @@ vendor/lib64/vendor.qti.hardware.radio.uim_remote_server@1.0.so|ab552724f7d723a7
 vendor/radio/qcril_database/qcril.db|18fea95789ddbb9b069c9f0d856273be95513f6f
 
 # Radio (IMS) - from X01BD - PKQ1 16.2017.1901.046
--app/imssettings/imssettings.apk|228d1c7d4013b4927926e4f44d8ca38a234b45d9
+-app/imssettings/imssettings.apk:vendor/app/imssettings/imssettings.apk|20d9b2c3f5939d4bfa7c03b5383d0cf03dbbc39e
 -app/uceShimService/uceShimService.apk|7c79e5403b26483ce20b5009b9d86b1a3eec6453
 lib64/com.qualcomm.qti.imscmservice@1.0.so|fef99d1e4e599b438c38d6a31b15dd55f9f9d391
 lib64/com.qualcomm.qti.imscmservice@2.0.so|c14157e35f83b2481b83ca35d4925fcb135325aa
@@ -1300,7 +1300,7 @@ lib64/libimscamera_jni.so|133fec4e7be337eb255eb226c4ff96ae53b94be7
 lib64/libimsmedia_jni.so|577b1ed68e2a26e50e9e4dfed9fe1ca685979a56
 lib64/vendor.qti.ims.callinfo@1.0.so|5862ab34c0d040dba63eced727146dd233cf92ee
 lib64/vendor.qti.imsrtpservice@1.0.so|559a2dbf409d86746ed4303f2e0089256bb91a07
--priv-app/ims/ims.apk|330e77d7cda40fd673a21685463d22b35f2d924a
+-priv-app/ims/ims.apk|e42e8f26feb0ef7cd3effd4cedfdd5ba4641dd6a
 vendor/bin/ims_rtp_daemon|7f16b1f5d1847af6f4be18e225dd8ae5f8688292
 vendor/bin/imsdatadaemon|6ad537f2da00841c25a9e2a5656807fc4d7ab1ce
 vendor/bin/imsqmidaemon|51213934ec0b5159729d22e22872b3e057025b24
